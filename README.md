@@ -10,37 +10,11 @@
 [![SmoothApp Post-Submit Tests](https://github.com/openfoodfacts/smooth-app/actions/workflows/postsubmit.yml/badge.svg)](https://github.com/openfoodfacts/smooth-app/actions/workflows/postsubmit.yml)
 [![Create internal releases](https://github.com/openfoodfacts/smooth-app/actions/workflows/internal-release.yml/badge.svg)](https://github.com/openfoodfacts/smooth-app/actions/workflows/internal-release.yml)
 
-## Weekly meetings
-
-- We e-meet Thursdays at 17:30 Paris Time (16:30 London Time, 22:00 IST, 08:30 AM PT)
-- ![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?logo=google-meet&logoColor=white) Video call link: <https://meet.google.com/gnp-frks-esc>
-- Join by phone: <https://tel.meet/gnp-frks-esc?pin=1110549945262>
-- Add the Event to your Calendar by [adding the Open Food Facts community calendar to your calendar](https://wiki.openfoodfacts.org/Events)
-- [Weekly Agenda](https://docs.google.com/document/d/1MGQqMV7M4JTjFcRsiRvMZ8bnmd9vJWdSyRR3wJHUBMk/edit): please add the Agenda items as early as you can. Make sure to check the Agenda items in advance of the meeting, so that we have the most informed discussions possible, leading to argumented decisions.
-- The meeting will handle Agenda items first, and if time permits, collaborative bug triage.
-- We strive to timebox the core of the meeting (decision making) to 30 minutes, with an optional free discussion/live debugging afterwards.
-- We take comprehensive notes in the Weekly Agenda of agenda item discussions and of decisions taken.
-
-## 🆕 The future of the app
-
-Starting this April, we invite all users and contributors to build a vision for the app. All information are detailed on this [blog post](https://blog.openfoodfacts.org/en/news/towards-1-million-users-and-beyond-for-open-food-facts-mobile-app).
-
-## User interface
-
-- [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white) Mockups on the current app and future plans to discuss](https://www.figma.com/file/nFMjewFAOa8c4ahtob7CAB/Mobile-App-Design-(Quentin)?node-id=0%3A1&t=SrBuT7gBdhapUerx-0)
-
-## Feature Sprint
-
-- We use feature-based sprints, [tracked here](https://github.com/orgs/openfoodfacts/projects/83)
 
 ## Code documentation
 
 [Code documentation on GitHub pages](https://openfoodfacts.github.io/smooth-app/).
 
-## Current Release
-
-- Latest commit deployed to Apple App Store: Released on Nov 29th as Build 835
-- Latest commit deployed to PlayStore: 792 from Nov 6th 11AM
 
 ## Presentation
 
@@ -76,16 +50,6 @@ Starting this April, we invite all users and contributors to build a vision for 
 
 </details>
 
-<br>
- 
-## About this Repository
-
-![GitHub language count](https://img.shields.io/github/languages/count/openfoodfacts/smooth-app)
-![GitHub top language](https://img.shields.io/github/languages/top/openfoodfacts/smooth-app)
-![GitHub last commit](https://img.shields.io/github/last-commit/openfoodfacts/smooth-app)
-![Github Repo Size](https://img.shields.io/github/repo-size/openfoodfacts/smooth-app)
-
-<br>
 
 ## How to run the project
 
@@ -112,15 +76,3 @@ In order to run the application, make sure you are in the `packages/smooth_app` 
 - [Contributing Guidelines](https://github.com/openfoodfacts/smooth-app/blob/develop/CONTRIBUTING.md)
 
 <br>
-
-<details><summary><h3>Thanks</h3></summary>
-The app was initially created by Primael. The new Open Food Facts app (smooth_app) was then made possible thanks to an initial grant by the Mozilla Foundation in February 2020, after Pierre pitched them the idea at FOSDEM. A HUGE THANKS 🧡
-In addition to the core role of the community, we also had the support from several Google.org fellows and a ShareIt fellow that helped us eventually release the app in June 2022.
-</details>
-<br>
-
-## Contributors
-
-<a href="https://github.com/openfoodfacts/smooth-app/graphs/contributors">
-  <img alt="List of contributors to this repository" src="https://contrib.rocks/image?repo=openfoodfacts/smooth-app" />
-</a>
